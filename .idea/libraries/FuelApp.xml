@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FuelApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/FuelApp_jar/FuelApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
